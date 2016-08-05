@@ -10,9 +10,9 @@
 
 ## 使用方法
 
-* 下载 [DNSCrypt](https://download.dnscrypt.org/dnscrypt-proxy/dnscrypt-proxy-win32-full-1.6.1.zip)、[Unbound](http://unbound.net/downloads/unbound-1.5.9.zip)、[NirCmd 32-bit](http://www.nirsoft.net/utils/nircmd.zip)或[NirCmd 64-bit](http://www.nirsoft.net/utils/nircmd-x64.zip)
+* 下载 [DNSCrypt 32-bit](https://download.dnscrypt.org/dnscrypt-proxy/dnscrypt-proxy-win32-full-1.7.0.zip)或[DNSCrypt 64-bit](https://download.dnscrypt.org/dnscrypt-proxy/dnscrypt-proxy-win64-full-1.7.0.zip)、[Unbound](http://unbound.net/downloads/unbound-1.5.9.zip)、[NirCmd 32-bit](http://www.nirsoft.net/utils/nircmd.zip)或[NirCmd 64-bit](http://www.nirsoft.net/utils/nircmd-x64.zip)
 
-* 解压`dnscrypt-proxy-win32-full-1.6.1.zip`到`E:\Program Files\DNSCrypt\`；解压`unbound-1.5.7.zip`到`E:\Program Files\unbound\`；解压`nircmd.zip`或`nircmd-x64.zip`到`C:\Windows\System32\`
+* 解压`dnscrypt-proxy-win32-full-1.7.0.zip`或`dnscrypt-proxy-win64-full-1.7.0.zip`到`E:\Program Files\DNSCrypt\`；解压`unbound-1.5.7.zip`到`E:\Program Files\unbound\`；解压`nircmd.zip`或`nircmd-x64.zip`到`C:\Windows\System32\`
 
 * 下载[配置文件](https://github.com/CNMan/unbound.conf/archive/master.zip)并解压到`E:\Program Files\unbound\`
 
